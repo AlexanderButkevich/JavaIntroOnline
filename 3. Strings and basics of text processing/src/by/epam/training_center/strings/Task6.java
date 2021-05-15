@@ -1,4 +1,4 @@
-package strings;
+package by.epam.training_center.strings;
 
 public final class Task6 {
     public static String solution(String str) {

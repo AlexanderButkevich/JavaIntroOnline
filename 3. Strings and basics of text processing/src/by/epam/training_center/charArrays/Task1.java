@@ -1,4 +1,4 @@
-package charArrays;
+package by.epam.training_center.charArrays;
 
 import java.util.Arrays;
 

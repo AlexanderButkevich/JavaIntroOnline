@@ -1,6 +1,6 @@
-package charArrays;
+package by.epam.training_center.charArrays;
 
-import static charArrays.Task3.isDigit;
+import static by.epam.training_center.charArrays.Task3.isDigit;
 
 public final class Task4 {
     public static int solution(char[] str) {

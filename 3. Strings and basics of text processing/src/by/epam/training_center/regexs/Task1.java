@@ -1,6 +1,6 @@
-package regexs;
+package by.epam.training_center.regexs;
 
-import strings.Task10;
+import by.epam.training_center.strings.Task10;
 
 import java.util.Comparator;
 import java.util.stream.Collectors;

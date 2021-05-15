@@ -1,4 +1,4 @@
-package strings;
+package by.epam.training_center.strings;
 
 public final class Task3 {
     public static boolean solution(String str) {

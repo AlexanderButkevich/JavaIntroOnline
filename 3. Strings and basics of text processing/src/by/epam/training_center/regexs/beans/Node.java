@@ -1,4 +1,4 @@
-package regexs.beans;
+package by.epam.training_center.regexs.beans;
 
 import java.util.HashMap;
 import java.util.Map;

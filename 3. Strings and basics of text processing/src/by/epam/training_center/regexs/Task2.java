@@ -1,6 +1,6 @@
-package regexs;
+package by.epam.training_center.regexs;
 
-import regexs.beans.Node;
+import by.epam.training_center.regexs.beans.Node;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

@@ -1,4 +1,4 @@
-package charArrays;
+package by.epam.training_center.charArrays;
 
 public final class Task3 {
     public static int solution(char[] str) {

@@ -1,4 +1,4 @@
-package strings;
+package by.epam.training_center.strings;
 
 import java.util.HashSet;
 import java.util.Scanner;
