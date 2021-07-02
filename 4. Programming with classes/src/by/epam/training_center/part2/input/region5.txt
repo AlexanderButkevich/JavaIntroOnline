@@ -1,0 +1,22 @@
+#Minsk#1902.66
+#Barysaw#2987.63
+#Byerazino#1940.34
+#Chervyen'#1630.39
+#Dzyarzhynsk#1189.50
+#Kapyl'#1607.66
+#Kletsk#974.12
+#Krupki#2138.73
+#Lahoysk#2365.02
+#Lyuban'#1913.75
+#Maladzyechna#1392.18
+#Myadzyel'#1964.30
+#Nyasvizh#862.75
+#Puchavichy#2441.12
+#Salihorsk#2498.91
+#Slutsk#1821.06
+#Smalyavichy#1394.14
+#Staryya Darohi#1370.38
+#Stowbtsy#1884.52
+#Uzda#1180.97
+#Valozhyn#1916.78
+#Vileyka#2453.81

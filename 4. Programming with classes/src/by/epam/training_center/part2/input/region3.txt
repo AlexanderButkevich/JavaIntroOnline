@@ -1,0 +1,21 @@
+#Gomel#1951.40
+#Akciabrski#1381.19
+#Brahin#1960.46
+#Buda-Kashalyova#1594.50
+#Chachersk#1229.88
+#Dobrush#1452.72
+#Kalinkavichy#2756.24
+#Karma#949.15
+#Khoiniki#2027.74
+#Lyelchytsy#3221.31
+#Loyew#1045.53
+#Mazyr#1603.47
+#Naroulia#1588.82
+#Pietrykaw#2835.18
+#Rahachow#2066.99
+#Rechytsa#2713.95
+#Svietlahorsk#1899.91
+#Vietka#1558.62
+#Yelʹsk#1365.68
+#Zhlobin#2110.77
+#Zhytkavichy#2916.27
